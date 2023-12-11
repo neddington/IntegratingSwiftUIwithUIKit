@@ -11,6 +11,7 @@
 		2CCF30A52B27C8D7008AEBB2 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CCF30A42B27C8D7008AEBB2 /* ContentView.swift */; };
 		2CCF30A72B27C8D8008AEBB2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2CCF30A62B27C8D8008AEBB2 /* Assets.xcassets */; };
 		2CCF30AA2B27C8D8008AEBB2 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2CCF30A92B27C8D8008AEBB2 /* Preview Assets.xcassets */; };
+		2CCF30B12B27CB0D008AEBB2 /* GoofyAdventures011(1991).pdf in Resources */ = {isa = PBXBuildFile; fileRef = 2CCF30B02B27CB0D008AEBB2 /* GoofyAdventures011(1991).pdf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		2CCF30A42B27C8D7008AEBB2 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		2CCF30A62B27C8D8008AEBB2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2CCF30A92B27C8D8008AEBB2 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		2CCF30B02B27CB0D008AEBB2 /* GoofyAdventures011(1991).pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "GoofyAdventures011(1991).pdf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				2CCF30A22B27C8D7008AEBB2 /* IntegratingSwiftUIwithUIKitApp.swift */,
 				2CCF30A42B27C8D7008AEBB2 /* ContentView.swift */,
+				2CCF30B02B27CB0D008AEBB2 /* GoofyAdventures011(1991).pdf */,
 				2CCF30A62B27C8D8008AEBB2 /* Assets.xcassets */,
 				2CCF30A82B27C8D8008AEBB2 /* Preview Content */,
 			);
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2CCF30AA2B27C8D8008AEBB2 /* Preview Assets.xcassets in Resources */,
+				2CCF30B12B27CB0D008AEBB2 /* GoofyAdventures011(1991).pdf in Resources */,
 				2CCF30A72B27C8D8008AEBB2 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
